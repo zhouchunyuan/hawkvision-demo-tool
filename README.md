@@ -5,9 +5,11 @@ The purpose of this program is to add texture to the simulation. The new program
 
 The OpenGL structure is mainly based on Benny's tutorial : https://github.com/BennyQBD/ModernOpenGLTutorial
 
-run the "./compile.sh" from terminal to compile it.
+run the "celegans_simulator/compile.sh" from terminal to compile it.
 
-type "./celegans" to run.
+run "celegans_simulator/celegans" to play.
+
+type many time of "a" "f" "n" "p" to trigger the movement. click the window quit button to exit.
 
 ------------------------------
 
