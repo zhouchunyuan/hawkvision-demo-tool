@@ -9,7 +9,7 @@ run the "celegans_simulator/compile.sh" from terminal to compile it.
 
 run "celegans_simulator/celegans" to play.
 
-type many time of "a" "f" "n" "p" to trigger the movement. click the window quit button to exit.
+You may need to type multiple times of "a" "f" "n" "p" keys to trigger the movement. click the window quit button to exit.
 
 ------------------------------
 
